@@ -1,5 +1,1 @@
-touch up_to_date
-<<<<<<< HEAD
-=======
-vim up_to_date
->>>>>>> 27b760ded80767d81758e98bc7ce76b6fbd858c9
+git pull
